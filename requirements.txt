@@ -16,3 +16,4 @@ xlrd
 requests
 sqlalchemy
 great_tables
+polars
