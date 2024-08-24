@@ -13,6 +13,6 @@ html5lib
 pyarrow
 openpyxl
 xlrd
-pytables
 requests
 sqlalchemy
+great_tables
